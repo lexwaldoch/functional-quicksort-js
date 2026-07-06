@@ -1,0 +1,12 @@
+{
+  "name": "functional-quicksort-js",
+  "version": "1.0.0",
+  "description": "Functional programming algorithms implemented in JavaScript.",
+  "main": "src/algorithms.js",
+  "scripts": {
+    "test": "node test/algorithms.test.js"
+  },
+  "dependencies": {
+    "immutable": "^4.3.0"
+  }
+}
